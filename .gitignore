@@ -1,0 +1,6 @@
+#######Exclude all unnecessary files
+*.csv
+*.pdf
+*.json
+*.mp3
+*.avi
